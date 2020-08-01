@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       leg
+//  action 1:   the leg bends
+leg.bend();
+//  action 2:   the leg flexes
+leg.flex();
+//  action 3:   the leg lifts up
+leg.liftUp();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       badger
+//  action 1:   the badger eats
+badger.eat();
+//  action 2:   the badger runs
+badger.run();
+//  action 3:   the badger drinks water
+badger.drinkWater();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       watch
+//  action 1:   the watch beeps
+watch.beep();
+//  action 2:   displays the time
+watch.displayTime();
+//  action 3:   the watch light illuminates the screen
+watch.lightIlluminates();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       kettle
+//  action 1:   the kettle boils water
+kettle.boil();
+//  action 2:   the kettle automatically turns off 
+kettle.turnOff();
+//  action 3:   the kettle overflows
+kettle.overflow();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       cat
+//  action 1:   the cat jumps  
+cat.jump();
+//  action 2:   the cat meows
+cat.meow();
+//  action 3:   the cat chases the mouse
+cat.chaseMouse();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       eye
+//  action 1:   the eye closes
+eye.close();
+//  action 2:   the eye looks left
+eye.lookLeft();
+//  action 3:   the eye blinks
+eye.blink(); 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       bread
+//  action 1:   the bread rises in the oven
+bread.rise();
+//  action 2:   the bread cools down
+bread.cool();
+//  action 3:   the bread gets old and mouldy
+bread.old();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       moth
+//  action 1:   the moth flaps its wings
+moth.flap()
+//  action 2:   the moth lands on a light bulb
+moth.landLightbulb();
+//  action 3:   the moth dodges a bat
+moth.dogdeBat();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       frog
+//  action 1:   the frog leaps
+frog.leap();
+//  action 2:   the frog eats a slug  
+frog.eatSlug();
+//  action 3:   the frog swims
+frog.swim();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       man
+//  action 1:   man orders a cocktail
+man.orderCocktail();
+//  action 2:   man eats a sandwich
+man.eatSandwich();
+//  action 3:   man thinks about existence 
+man.thinkExistence();
 
 
 #endif
