@@ -110,19 +110,19 @@ bread.old();
 //  8)
 //  Noun:       moth
 //  action 1:   the moth flaps its wings
-moth.flap()
+moth.flap();
 //  action 2:   the moth lands on a light bulb
 moth.landLightbulb();
 //  action 3:   the moth dodges a bat
 moth.dogdeBat();
 //  9)
-//  Noun:       frog
-//  action 1:   the frog leaps
-frog.leap();
-//  action 2:   the frog eats a slug  
-frog.eatSlug();
-//  action 3:   the frog swims
-frog.swim();
+//  Noun:       computerMonitor
+//  action 1:   the monitor display dims
+computerMonitor.displayDim();
+//  action 2:   the monitor display illuminates the room  
+computerMonitor.illuminateRoom();
+//  action 3:   the monitor automatically turns off
+computerMonitor.turnOff();
 //  10)
 //  Noun:       man
 //  action 1:   man orders a cocktail
